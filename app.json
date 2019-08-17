@@ -1,0 +1,15 @@
+{
+
+    "name": "analyzeyou-api",
+
+    "description": "Self-hosted app",
+
+    "repository": "https://github.com/Arthur-Savio/AnalyzeYou",
+
+    "scripts": {
+
+    "postdeploy": "python manage.py makemigrations && python manage.py migrate"
+
+  }
+
+}
