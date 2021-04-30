@@ -31,7 +31,7 @@ sqlparse==0.3.0
 textblob==0.15.3
 unicode==2.7
 Unidecode==1.1.1
-urllib3==1.25.3
+urllib3==1.25.8
 vincent==0.4.4
 virtualenv==15.1.0
 whitenoise==4.1.3
