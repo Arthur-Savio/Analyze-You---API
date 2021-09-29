@@ -13,7 +13,7 @@ idna==2.8
 joblib==0.13.2
 kiwisolver==1.1.0
 matplotlib==2.2.4
-nltk==3.4.3
+nltk==3.6.3
 numpy==1.16.4
 pandas==0.25.0
 Pillow==6.1.0
